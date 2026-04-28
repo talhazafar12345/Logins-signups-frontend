@@ -1,0 +1,117 @@
+
+
+*{
+  margin: 0;
+  padding: 0;
+}
+.acc{
+  text-align: center;
+  padding-top: 120px;
+  color: white;
+}
+
+.acc h1{
+  font-size: 37px;
+  width: 60%;
+  margin: auto;
+}
+
+.inp{
+  text-align: center;
+  padding-top: 40px;
+}
+
+.back{
+  background-color: black;
+  height: 641px;
+}
+
+.input input{
+  width: 290px;
+  margin: 10px;
+  height: 30px;
+  padding-left: 10px;
+  border: none;
+  background-color: transparent;
+  border-bottom: 2px solid white;
+  outline: none;
+  font-size: 16px;
+  color: white;
+}
+
+.input input::placeholder{
+font-size: 16px;
+}
+
+.link .link{
+  text-decoration: none;
+  color:  gray;
+}
+
+.link p{
+  color: white;
+  margin-top: 20px;
+  font-size: 18px;
+}
+
+.link{
+  text-align: center;
+  margin-top: 20px;
+}
+
+.btn button{
+  background-color: white;
+  width: 130px;
+  height: 32px;
+  border-radius: 20px;
+  margin-top: 20px;
+  border: none;
+  font-size: 16px;
+
+}
+
+.btn button:focus{
+  background-color: gray;
+  color: white;
+}
+
+.accc{
+  text-align: center;
+  padding-top: 200px;
+  color: white;
+}
+
+.accc h1{
+  font-size: 37px;
+  width: 60%;
+  margin: auto;
+  line-height: 1.6;
+}
+.btn{
+  text-align: center;
+}
+
+.err-text{
+color: red;
+
+}
+
+.change{
+  cursor: pointer;
+  position: relative;
+  right: 40px;
+  margin-left: -20px;
+
+}
+
+.inps{
+  margin-top: -30px;
+}
+
+
+
+
+
+
+
+
